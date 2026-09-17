@@ -1,0 +1,16 @@
+{
+  "name": "오늘 카페에 가지 않았더라면",
+  "short_name": "오늘 카페에",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#15110f",
+  "theme_color": "#15110f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "file_00000000d41c820c94500cbdc48108f8.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
